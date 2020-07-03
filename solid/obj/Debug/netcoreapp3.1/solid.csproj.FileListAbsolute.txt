@@ -1,0 +1,13 @@
+/home/user/src/desing-patterns/solid/bin/Debug/netcoreapp3.1/solid
+/home/user/src/desing-patterns/solid/bin/Debug/netcoreapp3.1/solid.deps.json
+/home/user/src/desing-patterns/solid/bin/Debug/netcoreapp3.1/solid.runtimeconfig.json
+/home/user/src/desing-patterns/solid/bin/Debug/netcoreapp3.1/solid.runtimeconfig.dev.json
+/home/user/src/desing-patterns/solid/bin/Debug/netcoreapp3.1/solid.dll
+/home/user/src/desing-patterns/solid/bin/Debug/netcoreapp3.1/solid.pdb
+/home/user/src/desing-patterns/solid/obj/Debug/netcoreapp3.1/solid.csprojAssemblyReference.cache
+/home/user/src/desing-patterns/solid/obj/Debug/netcoreapp3.1/solid.AssemblyInfoInputs.cache
+/home/user/src/desing-patterns/solid/obj/Debug/netcoreapp3.1/solid.AssemblyInfo.cs
+/home/user/src/desing-patterns/solid/obj/Debug/netcoreapp3.1/solid.csproj.CoreCompileInputs.cache
+/home/user/src/desing-patterns/solid/obj/Debug/netcoreapp3.1/solid.dll
+/home/user/src/desing-patterns/solid/obj/Debug/netcoreapp3.1/solid.pdb
+/home/user/src/desing-patterns/solid/obj/Debug/netcoreapp3.1/solid.genruntimeconfig.cache
