@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/user/src/desing-patterns/builder/builder.csproj",
-      "projectName": "builder",
-      "projectPath": "/home/user/src/desing-patterns/builder/builder.csproj",
+      "projectUniqueName": "/home/user/src/design-patterns/creational-pattern/prototype/prototype.csproj",
+      "projectName": "prototype",
+      "projectPath": "/home/user/src/design-patterns/creational-pattern/prototype/prototype.csproj",
       "packagesPath": "/home/user/.nuget/packages/",
-      "outputPath": "/home/user/src/desing-patterns/builder/obj/",
+      "outputPath": "/home/user/src/design-patterns/creational-pattern/prototype/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/user/.nuget/NuGet/NuGet.Config"
