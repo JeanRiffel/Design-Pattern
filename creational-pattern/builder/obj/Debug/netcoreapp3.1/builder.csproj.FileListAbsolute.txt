@@ -1,0 +1,13 @@
+/home/user/src/design-patterns/creational-pattern/builder/bin/Debug/netcoreapp3.1/builder
+/home/user/src/design-patterns/creational-pattern/builder/bin/Debug/netcoreapp3.1/builder.deps.json
+/home/user/src/design-patterns/creational-pattern/builder/bin/Debug/netcoreapp3.1/builder.runtimeconfig.json
+/home/user/src/design-patterns/creational-pattern/builder/bin/Debug/netcoreapp3.1/builder.runtimeconfig.dev.json
+/home/user/src/design-patterns/creational-pattern/builder/bin/Debug/netcoreapp3.1/builder.dll
+/home/user/src/design-patterns/creational-pattern/builder/bin/Debug/netcoreapp3.1/builder.pdb
+/home/user/src/design-patterns/creational-pattern/builder/obj/Debug/netcoreapp3.1/builder.csprojAssemblyReference.cache
+/home/user/src/design-patterns/creational-pattern/builder/obj/Debug/netcoreapp3.1/builder.AssemblyInfoInputs.cache
+/home/user/src/design-patterns/creational-pattern/builder/obj/Debug/netcoreapp3.1/builder.AssemblyInfo.cs
+/home/user/src/design-patterns/creational-pattern/builder/obj/Debug/netcoreapp3.1/builder.csproj.CoreCompileInputs.cache
+/home/user/src/design-patterns/creational-pattern/builder/obj/Debug/netcoreapp3.1/builder.dll
+/home/user/src/design-patterns/creational-pattern/builder/obj/Debug/netcoreapp3.1/builder.pdb
+/home/user/src/design-patterns/creational-pattern/builder/obj/Debug/netcoreapp3.1/builder.genruntimeconfig.cache
