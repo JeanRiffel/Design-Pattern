@@ -18,7 +18,7 @@ namespace prototype{
         }
 
         public override ToString() {
-
+            return $"{nameof(StreetAddress)}: {StreetAddress} , {nameof(City)}: { City } , {nameof(Country)}: {Country}  ";
         }
 
     }
