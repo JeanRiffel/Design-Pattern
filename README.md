@@ -50,5 +50,25 @@ This repository is part of my studies approaching desing patterns.
   
   ### Structural Patterns
   
-  Still studying ... please wait :)
+  In short some of these structural patterns are working with composition.
+
+
+   ### - Bridge:  
+
+      * This pattern allow us to develop classes idependently from each others and in the end put them to work together.
+      * Usually the classes are being developed.
+
+   ### - Adapter
+
+      * Usually the classes was already implemented and now the developer want to place different classes to working together. 
+      * Tries to make the existing interface usable.
+      * Usually wraps only one object
+      * Is useful when the developer has a existing class however the existing interface is not compatible with the rest of the code or the legacy code has to     communicate with the system as well. 
+
+   ### - Facade 
+
+      * This pattern provides a simplified interface to a library.
+      * Defines a new inteface for a existing objects
+      * Works with a entire subsytem of objects. 
+
 
